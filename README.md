@@ -2,9 +2,11 @@
 
 <div>
    <a href="https://github.com/yudiyamada">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yudiyamada&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yudiyamada&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://streak-stats.demolab.com/?user=yudiyamada&theme=tokyonight"/>
+   <img height="180em" src="https://github-profile-trophy.vercel.app/?username=yudiyamada&theme=tokyonight&column=4"/>
 </div>
+
+
     
 <div style="display: inline_block"><br>
   <!-- Front-end básico -->
