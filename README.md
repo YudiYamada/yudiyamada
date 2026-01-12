@@ -1,5 +1,5 @@
 # 💫 About Me:
-Fullstack Developer with a degree in Systems Analysis and Development. I have hands-on experience building modern web applications using **React**, **Next.js**, **Node.js**, and **PostgreSQL**. I am passionate about developing scalable solutions and crafting responsive, user-centric interfaces. Well-versed in **Agile methodologies**, **automated testing**, and **REST API integration**.
+Full Stack Engineer with a degree in Systems Analysis and Development. I have hands-on experience building modern web applications using **React**, **Next.js**, **Node.js**, and **PostgreSQL**. I am passionate about developing scalable solutions and crafting responsive, user-centric interfaces. Well-versed in **Agile methodologies**, **automated testing**, and **REST API integration**.
 
 
 ## 🌐 Socials:
